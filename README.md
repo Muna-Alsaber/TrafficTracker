@@ -24,7 +24,8 @@ Please Refer to `Vehicle_Tracking_and_Counting.pdf` for detailed code and classi
 
 4. The program will save the output as an `output.mp4` file.
 
-5. View the tracked vehicles in `output.mp4`.
-
+5. Please view of the tracked vehicles:
+   https://drive.google.com/file/d/1Zm45CLa6JxvZsHBuHsrN_MQL5Y-zxZjF/view?usp=sharing
+   
 
 
