@@ -25,7 +25,7 @@ Please Refer to `Vehicle_Tracking_and_Counting.pdf` for detailed code and classi
 4. The program will save the output as an `output.mp4` file.
 
 5. Please view the output of the traffic tracker code:
-   https://drive.google.com/file/d/1Zm45CLa6JxvZsHBuHsrN_MQL5Y-zxZjF/view?usp=sharing
+https://drive.google.com/file/d/1aX8AU2NcbDin_sFIMAU7SF2ZxpRmZvSi/view?usp=sharing
    
 
 
