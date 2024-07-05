@@ -2,8 +2,8 @@
 ## Vehicle Tracking and Counting
 
 This task aims to detect and track vehicles (cars and trucks) in a video using computer vision techniques. The main objectives are to accurately detect vehicles, track their movements, and count the number of vehicles entering and exiting each side of the road.
-The `Vehicle_Tracking_and_Counting.pdf` document contains detailed code and classification information about the task.
 
+Please Refer to `Vehicle_Tracking_and_Counting.pdf` for detailed code and classification information.
 
 ### Instructions to Run `traffic_tracker.py`:
 
@@ -17,16 +17,14 @@ The `Vehicle_Tracking_and_Counting.pdf` document contains detailed code and clas
    pip3 install -r requirements.txt
    ```
 
-3. Refer to `Vehicle_Tracking_and_Counting.pdf` for detailed code and classification information.
-
-4. Run the code:
+3. Run the code:
    ```
    python3 traffic_tracker.py
    ```
 
-5. The program will save the output as an `output.mp4` file.
+4. The program will save the output as an `output.mp4` file.
 
-6. View the tracked vehicles in `output.mp4`.
+5. View the tracked vehicles in `output.mp4`.
 
 
 
