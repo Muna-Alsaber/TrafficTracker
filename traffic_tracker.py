@@ -7,7 +7,7 @@ from sort.sort import Sort
 model = YOLO('yolov8n.pt')
 
 # Initialize SORT tracker  
-sort_tracker = Sort() 
+sort_tracker = Sort(max_age=5, min_hits=3)  
 
 # Load video and create video writer obj
 cap = cv2.VideoCapture('56310-479197605_small.mp4')
